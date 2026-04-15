@@ -30,15 +30,12 @@
 ├── .gitignore # 忽略编译产物、临时文件
 └── README.md # 仓库总览
 ```
-## 📅 每日打卡日志
+## 📅 每日打卡日志模板
 > 按日期记录每日学习内容、刷题成果、掌握情况
 
-### 2026-04-14 Day1
+### 2026-00-0 Day0
 ✅ **今日学习内容**
-- 栈（Stack）核心原理：先进后出（LIFO）
-- 手写数组实现栈（push/pop/top/isEmpty）
-- STL `std::stack` 容器使用
-- 括号匹配算法原理
+- 
 
 💻 **今日刷题/代码**
 - [洛谷 P1739 表达式括号匹配](sslocal://flow/file_open?url=https%3A%2F%2Fwww.luogu.com.cn%2Fproblem%2FP1739&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) ✅ AC
@@ -46,8 +43,8 @@
 - 手写栈实现：[code/chapter6/stack_manual.cpp](sslocal://flow/file_open?url=code%2Fchapter6%2Fstack_manual.cpp&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
 📈 **掌握程度**
-- ✅ 栈原理：完全掌握
-- ✅ 括号匹配：完全掌握
+- ✅ 栈原理：完全掌握/初步了解/仍然不理解
+- ✅ 括号匹配：完全掌握/初步了解/仍然不理解
 - ⚠️ 手写栈边界条件：需巩固
 
 🚀 **明日计划**
