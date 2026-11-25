@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-28",
+  "seed": 20261028,
+  "oracle": "equality graph + DFS components",
+  "results": [
+    {
+      "source": "reviews\\discrete-dsu-submitted.cpp",
+      "passed": 307
+    },
+    {
+      "source": "reviews\\discrete-dsu-corrected.cpp",
+      "passed": 307
+    },
+    {
+      "source": "templates\\discrete-dsu.cpp",
+      "passed": 309
+    }
+  ],
+  "online_verdict": null,
+  "independent_solve": false,
+  "note": "用户原版通过小规模对照不能证明初始化契约正确；漏初始化的末节点借用虚拟根0。增强模板另测长链及22万不同标签。"
+}

@@ -1,0 +1,22 @@
+{
+  "problem_id": "kitten-cable-car",
+  "status": "local_passed",
+  "date": "2026-10-22",
+  "compiler": "g++ -std=c++17 -O2 -Wall -Wextra",
+  "sources": [
+    "reviews/kitten-cable-car-submitted.cpp",
+    "templates/dfs-bin-packing.cpp",
+    "reviews/kitten-cable-car-dp-submitted.cpp",
+    "templates/subset-bin-packing.cpp"
+  ],
+  "case_count_per_implementation": 69,
+  "random_cases": 60,
+  "random_seed": 20261022,
+  "oracle": "exact feasible-subset partition DP on n<=9",
+  "boundaries": "sample, exact fit, one cat, n=18, w=1e8",
+  "online_verdict": null,
+  "independently_solved": false,
+  "existing_template_intentionally_used": false,
+  "limitations": "not an exhaustive proof or worst-case runtime guarantee; verified DFS and subset DP submissions and templates",
+  "reproduce": "python algorithm-learning/reviews/verify-kitten-cable-car.py"
+}

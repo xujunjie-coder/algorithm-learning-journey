@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-23",
+  "standard": "C++17",
+  "seed": 20261023,
+  "case_count": 358,
+  "sample_count": 6,
+  "exhaustive_total_le_12": 196,
+  "random_valid_cases": 150,
+  "multi_case_switch_count": 6,
+  "oracle": "Python 大整数整数分拆维数乘积式；并核对题面六个样例",
+  "status": "passed",
+  "results": {
+    "memo_user_ac": {
+      "compile": "pass",
+      "passed": 358,
+      "source": "young-tableaux-photo-submitted.cpp",
+      "online_verdict": "user_reported_AC"
+    },
+    "dp_reference": {
+      "compile": "pass",
+      "passed": 358,
+      "source": "young-tableaux-dp-reference.cpp",
+      "online_verdict": null
+    },
+    "hook_reference": {
+      "compile": "pass",
+      "passed": 358,
+      "source": "young-tableaux-hook-reference.cpp",
+      "online_verdict": null
+    }
+  },
+  "note": "DP 和勾长是助手参考实现，只登记本地验证，不登记在线 AC 或独立解题。"
+}

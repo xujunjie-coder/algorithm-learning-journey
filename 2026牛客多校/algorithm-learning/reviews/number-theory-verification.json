@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-16",
+  "status": "passed",
+  "language_standard": "C++11",
+  "gcd_cases": 3721,
+  "fraction_cases": 3660,
+  "radical_cases": 10005,
+  "equation_cases": 4164,
+  "official_sample_lines": 9,
+  "online_verdict": null,
+  "oracles": [
+    "Python math.gcd",
+    "Python fractions.Fraction",
+    "largest square divisor enumeration",
+    "exact rational/symbolic root formatting"
+  ],
+  "seed": 20261016
+}
