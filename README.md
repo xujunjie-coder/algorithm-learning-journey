@@ -1,6 +1,6 @@
 ![Algorithm Learning Journey](.github/assets/portfolio-banner.svg)
 
-# 许俊杰 · 算法与数据结构
+# 算法与数据结构
 
 > 以 C++ 进行算法训练，围绕题意建模、状态设计、复杂度分析和边界调试积累可复查的实现与解题记录。
 
